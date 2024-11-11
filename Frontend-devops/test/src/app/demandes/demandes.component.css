@@ -1,0 +1,11 @@
+.container-form {
+    
+    max-width: 600px; /* Définissez une largeur maximale pour le container */
+    padding: 20px; /* Ajoutez un peu d'espace autour du contenu */
+    border: 1px solid #ccc; /* Ajoutez une bordure pour délimiter le formulaire */
+    border-radius: 10px; /* Ajoutez un peu de courbure aux coins */
+    background-color: #f9f9f9; /* Couleur de fond légèrement grise */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ajoutez une légère ombre pour un effet de profondeur */
+    margin: 0;
+    
+}

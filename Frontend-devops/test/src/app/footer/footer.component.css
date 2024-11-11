@@ -1,0 +1,18 @@
+.bottom-component {
+    position: fixed;
+    left: 0;
+    right: 0;
+    margin: 0 auto; /* Centrer horizontalement */
+    top: 90%;
+    transform: translateY(-25%);
+    max-width: 1500px; /* Définissez la largeur maximale souhaitée */
+    width: 100%; /* Définissez la largeur en pourcentage */
+    background-color: #dfdfe2; /* Couleur de fond du conteneur */
+ 
+    border-radius: 8px; /* Rayon de la bordure du conteneur */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre autour du conteneur */
+
+    max-height: 80;
+    height: 20%;
+
+}

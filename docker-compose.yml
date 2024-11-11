@@ -1,0 +1,10 @@
+version: '3'
+services:
+  frontend:
+    image: my-angular-app
+    ports:
+      - "8085:80"
+  backend:
+    image: springboot-app
+    ports:
+      - "8090:8080"
